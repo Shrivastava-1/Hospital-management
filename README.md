@@ -1,1 +1,1 @@
-<h1>GUI based Hospital management System</h1>
+<h1 align="center">GUI based Hospital management System</h1>
