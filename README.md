@@ -4,7 +4,7 @@
 
 <h2>🚀 Features</h2>
 <ul>
-  <li>Add, update, and delete patient records</li>
+  <li>Add, Update, and delete patient records</li>
   <li>Auto-fill form fields on selecting a record</li>
   <li>Generate prescription as formatted text</li>
   <li>Scrollable tabular view of stored data</li>
