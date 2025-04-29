@@ -14,7 +14,7 @@
 
 <h2>🛠️ Built With</h2>
 <ul>
-  <li>Python 3</li>
+  <li>Python</li>
   <li>Tkinter (for GUI)</li>
   <li>ttk (modern widgets)</li>
   <li>SQL (via SqlQueries.py)</li>
