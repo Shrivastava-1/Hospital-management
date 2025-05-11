@@ -49,8 +49,6 @@
 </ol>
 <pre>python Hospital.py</pre>
 
-<h2>📸 Screenshots</h2>
-
 <h2>🙋‍♂️ Author</h2>
 <ul>
   <li><strong>Name:</strong> Chitransh Shrivastava</li>
