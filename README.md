@@ -50,7 +50,6 @@
 <pre>python Hospital.py</pre>
 
 <h2>📸 Screenshots</h2>
-<p><em>You can insert screenshots of the app interface here. </em></p>
 
 <h2>🙋‍♂️ Author</h2>
 <ul>
