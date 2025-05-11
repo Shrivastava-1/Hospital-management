@@ -1,6 +1,6 @@
 <h1 align="center">GUI based 🏥 Hospital Management System</h1>
 
-<p>This project is based on <strong>Hospital Management System GUI</strong> application built using <strong>Python (Tkinter)</strong> for the frontend and <strong>SQL</strong> for data operations. It allows users to manage patient and prescription records efficiently.</p>
+<p>This project is based on <strong>Hospital Management System GUI</strong> application built using <strong>Python</strong> for the frontend and <strong>SQL</strong> for data operations. It allows users to manage patient and prescription records efficiently.</p>
 
 <h2>🚀 Features</h2>
 <ul>
